@@ -79,12 +79,19 @@ pizza-sales-powerbi-analysis/
 
 ![Pizza Sales Dashboard](Visuals/pizza_dashboard_screenshot.png)
 
+![Pizza Sales Dashboard](https://github.com/user-attachments/assets/781d71cd-f62a-46ee-9448-ddc876e8b872)
+
+
+
+
+
+
 ## 📄 License
 This project is under the [MIT License](LICENSE).
 
 ## 🤝 Let’s Connect
 
 - 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio:https://github.com/Imrankhan-Data-Analyst/Pizza-Sales-Excel-SQL-Analysis/edit/main/README.md
 
 
