@@ -92,6 +92,6 @@ This project is under the [MIT License](LICENSE).
 ## 🤝 Let’s Connect
 
 - 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio:https://github.com/Imrankhan-Data-Analyst/Pizza-Sales-Excel-SQL-Analysis/edit/main/README.md
+- 🌐 git clone: https://github.com/Imrankhan-Data-Analyst/Pizza-Sales-Excel-SQL-Analysis/edit/main/README.md
 
 
